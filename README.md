@@ -1,2 +1,2 @@
 # SnakeJS
-Simple javasctip snake game using canvas
+Simple javascript snake game using canvas
