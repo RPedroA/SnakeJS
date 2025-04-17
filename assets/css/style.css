@@ -1,0 +1,31 @@
+html, body{
+    height: 100%;
+    margin:0;
+}
+
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+canvas{
+    border: 1px solid #fff;
+    background-image: url(https://cdnb.artstation.com/p/assets/covers/images/017/001/657/large/jonah-bauer-jonahbauer-pixelgrass-icon.jpg?1554277097);
+    background-repeat: no-repeat;
+    background-size: 400px 400px;
+
+}
+
+
+#score-container {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding-right: 52pc;
+    padding-top: 4pc;
+}
